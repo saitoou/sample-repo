@@ -4,3 +4,4 @@ Git練習用
 ### Gitの練習
 
 aaaaaa
+bbbbbb
